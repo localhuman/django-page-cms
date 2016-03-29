@@ -5,6 +5,8 @@ coverage/
 dist/
 example/media/
 django_page_cms.egg-info/
+cmsenv
+cmsenv/
 cms.db
 local_settings.py
 *.pyc
