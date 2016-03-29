@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 from pkg_resources import require, DistributionNotFound
 import pages
 import os
-package_name = 'django-page-cms'
+package_name = 'eti-django-page-cms'
 
 
 def local_open(fname):
