@@ -1,7 +1,6 @@
 """Django page CMS urls module."""
 
-from django.conf.urls import url, include, patterns
-from django.conf.urls import handler404, handler500
+from django.conf.urls import url
 from pages import views
 from pages import settings
 
