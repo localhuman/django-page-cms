@@ -57,7 +57,6 @@ eti_django_page_cms.egg-info/PKG-INFO
 eti_django_page_cms.egg-info/SOURCES.txt
 eti_django_page_cms.egg-info/dependency_links.txt
 eti_django_page_cms.egg-info/not-zip-safe
-eti_django_page_cms.egg-info/requires.txt
 eti_django_page_cms.egg-info/top_level.txt
 pages/__init__.py
 pages/api.py
