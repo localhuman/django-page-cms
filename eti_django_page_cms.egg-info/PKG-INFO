@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: eti-django-page-cms
-Version: 1.8.4
+Version: 1.8.6
 Summary: A tree based Django CMS application
-Home-page: http://packages.python.org/django-page-cms/
-Author: Batiste Bieler
-Author-email: batiste.bieler@gmail.com
+Home-page: https://github.com/localhuman/django-page-cms/
+Author: Thomas Saunders
+Author-email: saun0063@umn.edu
 License: BSD
-Download-URL: http://pypi.python.org/packages/source/d/eti-django-page-cms/eti-django-page-cms-1.8.4.tar.gz
+Download-URL: http://pypi.python.org/packages/source/d/eti-django-page-cms/eti-django-page-cms-1.8.6.tar.gz
 Description: 
         django-page-cms
         ===============

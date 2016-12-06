@@ -7,13 +7,14 @@ python:
 env:
   - DJANGO="Django<1.9"
   - DJANGO="Django<1.10"
+  - DJANGO="Django<1.11"
 matrix:
   exclude:
     # Django 1.9+ no longer supports python 3.2/3.3
     - python: "3.2"
-      env: DJANGO="Django<1.10"
+      env: DJANGO="Django<1.11"
     - python: "3.3"
-      env: DJANGO="Django<1.10"
+      env: DJANGO="Django<1.11"
 # command to install dependencies
 install:
   - "pip install -r requirements/external_apps.txt"
